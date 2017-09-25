@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/verify-cert-dashboard.iml" filepath="$PROJECT_DIR$/.idea/verify-cert-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verify-cert-dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/verify-cert-dashboard_main.iml" group="verify-cert-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verify-cert-dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/verify-cert-dashboard_test.iml" group="verify-cert-dashboard" />
+    </modules>
+  </component>
+</project>

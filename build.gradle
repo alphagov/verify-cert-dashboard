@@ -1,0 +1,18 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile(
+        'io.dropwizard:dropwizard-core:1.1.0'
+    )
+}
+
+run {
+    args = ["server", "configuration/cert-dashboard.yml"]
+}
+
+mainClassName = 'uk.gov.ida.certdashboard.CertDashboardApplication'
